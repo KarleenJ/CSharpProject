@@ -1,0 +1,14 @@
+C:\Users\tekks\source\repos\ClubRegistration\ClubRegistration\bin\Debug\ClubRegistration.exe.config
+C:\Users\tekks\source\repos\ClubRegistration\ClubRegistration\bin\Debug\ClubRegistration.exe
+C:\Users\tekks\source\repos\ClubRegistration\ClubRegistration\bin\Debug\ClubRegistration.pdb
+C:\Users\tekks\source\repos\ClubRegistration\ClubRegistration\obj\Debug\ClubRegistration.csprojAssemblyReference.cache
+C:\Users\tekks\source\repos\ClubRegistration\ClubRegistration\obj\Debug\MainWindow.g.cs
+C:\Users\tekks\source\repos\ClubRegistration\ClubRegistration\obj\Debug\App.g.cs
+C:\Users\tekks\source\repos\ClubRegistration\ClubRegistration\obj\Debug\ClubRegistration_MarkupCompile.cache
+C:\Users\tekks\source\repos\ClubRegistration\ClubRegistration\obj\Debug\ClubRegistration_MarkupCompile.lref
+C:\Users\tekks\source\repos\ClubRegistration\ClubRegistration\obj\Debug\MainWindow.baml
+C:\Users\tekks\source\repos\ClubRegistration\ClubRegistration\obj\Debug\ClubRegistration.g.resources
+C:\Users\tekks\source\repos\ClubRegistration\ClubRegistration\obj\Debug\ClubRegistration.Properties.Resources.resources
+C:\Users\tekks\source\repos\ClubRegistration\ClubRegistration\obj\Debug\ClubRegistration.csproj.GenerateResource.cache
+C:\Users\tekks\source\repos\ClubRegistration\ClubRegistration\obj\Debug\ClubRegistration.exe
+C:\Users\tekks\source\repos\ClubRegistration\ClubRegistration\obj\Debug\ClubRegistration.pdb
